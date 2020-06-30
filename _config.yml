@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Guillermo Fandos
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Personal academic website
 
 # Your name to show in the footer
-author: Some Person
+author: Guillermo Fandos
 
 # --- List of links in the navigation bar --- #
 
@@ -16,7 +16,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://gfandos.com/"
 
 # --- Logo --- #
 
@@ -39,9 +39,8 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: guifandos
+  twitter: g_fandos
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
